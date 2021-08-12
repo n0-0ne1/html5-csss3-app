@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+}
+p{
+    color: red;
+    font-size: 200px;
+    font-style: italic;
+}
+
+.blue{
+    color: blue;
+    font-size: 200px;
+    font-style: italic;
+}
+div{
+    color: rosybrown;
+}
+
+.dvmessage{
+    font-style: italic;
+}
